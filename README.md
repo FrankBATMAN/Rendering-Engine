@@ -1,10 +1,10 @@
 # Rendering-Engine-Master-Period-
 
-* **CAN NOT upload the source code because the project lab's property， sorry**
+* **CAN NOT upload the source code because the project lab's property， SORRY**
 
-* **framework of rendering engine**：3-levels(abstract level, rendering level, application level)
+* **framework of rendering engine**：3-levels(abstract level, rendering level, application level) structure
 * rendering level **scalability**: CAN use diffrent graphics language(OpenGL, OSG, Vulkan etc.) to implement.
-* Agile development(Scrum)
+* Agile development(**Scrum**)
 
 * Demo:
  * <https://vimeo.com/206570692>
