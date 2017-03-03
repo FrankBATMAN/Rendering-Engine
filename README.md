@@ -3,6 +3,7 @@
 * **CAN NOT upload the source code because the project lab's property， SORRY**
 
 * **framework of rendering engine**：3-levels(abstract level, rendering level, application level) structure
+* modules: **pipeline**, **resource**, **interactive**, logging, math
 * rendering level **scalability**: CAN use diffrent graphics language(OpenGL, OSG, Vulkan etc.) to implement.
 * agile development(**Scrum**)
 
