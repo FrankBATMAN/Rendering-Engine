@@ -8,7 +8,6 @@
 * agile development(**Scrum**)， Team Leader
 
 * skills & tools:C++, OpenGL, GLSL, SVN， JIRA  & Confluence
-* period: Aug. 2016 - Oct. 2016
 
 * demo:
  * <https://vimeo.com/206570692>
