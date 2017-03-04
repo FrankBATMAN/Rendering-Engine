@@ -2,7 +2,7 @@
 
 * **CAN NOT upload the source code because the project is the lab's property， SORRY**
 
-* 3-levels: abstract, rendering, application
+* 3-layers: abstract, rendering, application
 * modules: **pipeline**, **resource**, **interactive**, file-system, math
 * rendering level **scalability**: CAN use diffrent graphics language - **OpenGL**, **OSG**, **Vulkan**(on progress) - to implement
 * agile development(**Scrum**)， Team Leader
