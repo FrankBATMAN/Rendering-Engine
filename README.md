@@ -4,8 +4,11 @@
 
 * **framework of rendering engine**：3-levels(abstract level, rendering level, application level) structure
 * modules: **pipeline**, **resource**, **interactive**, file-system, math
-* rendering level **scalability**: CAN use diffrent graphics language(**OpenGL**, OSG, Vulkan etc.) to implement.
-* agile development(**Scrum**)
+* rendering level **scalability**: CAN use diffrent graphics language(**OpenGL**, OSG, Vulkan etc.) to implement
+* agile development(**Scrum**)， Team Leader
+
+* skills & tools: OpenGL, C++， SVN， JIRA  & Confluence
+* period: Aug. 2016 - Oct. 2016
 
 * demo:
  * <https://vimeo.com/206570692>
