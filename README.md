@@ -1,4 +1,4 @@
-# Rendering-Engine-Master-Period-
+# Rendering-Engine
 
 * **CAN NOT upload the source code because the project is the lab's property， SORRY**
 
