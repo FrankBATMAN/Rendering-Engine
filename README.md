@@ -7,7 +7,7 @@
 * rendering level **scalability**: CAN use diffrent graphics language(**OpenGL**, OSG, Vulkan etc.) to implement
 * agile development(**Scrum**)， Team Leader
 
-* skills & tools: OpenGL, C++， SVN， JIRA  & Confluence
+* skills & tools:C++, OpenGL, GLSL, SVN， JIRA  & Confluence
 * period: Aug. 2016 - Oct. 2016
 
 * demo:
