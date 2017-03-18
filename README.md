@@ -19,6 +19,6 @@
  * https://mosesyoung.wistia.com/medias/zbhmmwqnsz
 * screenshots
 
-![LLL] (https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/LLL.bmp)
-![Pixel-Shading] (https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/PixelShading-Robbit.bmp)
-![Texture] (https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/Robot_With_Texture_Loading.bmp)
+![LLL](https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/LLL.bmp)
+![Pixel-Shading](https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/PixelShading-Robbit.bmp)
+![Texture](https://github.com/FrankBATMAN/Rendering-Engine-Master-Period-/blob/master/Robot_With_Texture_Loading.bmp)
