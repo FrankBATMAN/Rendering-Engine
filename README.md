@@ -10,10 +10,6 @@
 * skills & tools:C++, OpenGL, GLSL, SVN, JIRA  & Confluence
 
 * demo:
- * <https://vimeo.com/206570692> (may have trouble accessing from mainland China)
- * <https://vimeo.com/206571715> (may have trouble accessing from mainland China)
- * <https://vimeo.com/206571525> (may have trouble accessing from mainland China)
- * OR
  * https://mosesyoung.wistia.com/medias/88xsgcutc8
  * https://mosesyoung.wistia.com/medias/ttp9zayukf
  * https://mosesyoung.wistia.com/medias/zbhmmwqnsz
